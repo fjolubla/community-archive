@@ -1,0 +1,21 @@
+poseidonVersion: 3.0.0
+title: 2026_Feldman_Oceania
+description: Ancient genomes from western Remote Oceania, investigating human dispersals
+  and social stratification.
+contributor:
+- name: Samia Djeffane
+  email: samia_djeffane@eva.mpg.de
+packageVersion: 1.0.0
+lastModified: 2026-10-23
+genotypeData:
+  format: PLINK
+  genoFile: 2026_Feldman_Oceania.bed
+  snpFile: 2026_Feldman_Oceania.bim
+  indFile: 2026_Feldman_Oceania.fam
+  snpSet: 1240K
+jannoFile: 2026_Feldman_Oceania.janno
+jannoFileChkSum: 426d8f6b87b14ffef16badaed13df097
+bibFile: FeldmanCell2026.bib
+bibFileChkSum: 8972bed51677b3e8be5711c5b2576499
+ssfFile: 2026_Feldman_Oceania.ssf
+ssfFileChkSum: 89369e4549a00271909be7c107b07cb5
